@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "giftjunction-ymvkjh",
+  "private_key_id": "ff190a0916f3abad804157a7ecb6c730ffef6e8c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyyw1W6k0LcBLq\nNs5AHmc1zzFugDcTPOGQSLJmamP3nSc8+/p3DrKIx9yAz3bg4w/oaFkRrBcNfjKg\neC8asR1nXB0/znu4fGkBAdh8hT0djbKagI+MqIzYZxBYOokbdP/eM6H1gyQSG0iN\nkrUoNIofmBWOPGN3CcZbf7svlEGXkHL0Vdvhz3x+3b1gkNhQp9+Ntq02cpB4ae8p\nDhC8G3PwMdZHRBgVOvhLCa6y4V3dyH8lWHu3ahfCV+P4pjGxCzKgn2OqG1OXz5k6\na4/14cif8ctBZjpPsHL4LcwVa1dNXgLPliW4KG1699K5AZTTF1dARJYL6gXqq6LX\n3i8UVATLAgMBAAECggEASesnFbMCrWLlfw2vkdTACQAjSLMbkgmOnA9iKnN75wiD\nC3SF5ake6OvwXxTm6i0WC5jwkhza3wo4th1aJCfrpyrvMM0WW3ycEP2JWlnfnZNS\nrwvNzXJ14JYjrMZunvptOpmQMSfJxu6evWFVIk0uecdvygFvgex5pKSXaCFcSOOP\nKc/ACEPxofkkTtG+CzVasN0bQqLoCMyGlXjuJz7lowr6SuyTbfYEb/TkzDAmIzVh\ni/Kwx3+ky6rzSaHcdzJ1nGt65klN625GaCpv5d+ZRmU06BP/MC/dF+4YS93YQ1v2\ngVzuKxbmwwb1/UdqBJLuF2D2btEIFcw2HTzbWuXQUQKBgQDmy+O3maSSZpv3IYeQ\na78XRUJhIqSVa3PIxfFAj9L8AeWrD0JRlqRHfwM13lB3coY+Y54QHLXiRty32qmZ\nqoztsn9pv6egk4S6nmW5TUeMdVRad+vV2ozC+iBLip1xE2EzbrPrZx6fDcuwaIja\njO+8pzVxcKyrgv7Rl8/GS/uWGQKBgQDGUV3zyxxpj8xUhKaANMWA6x33q1MNgX2k\nvQujyv59aVE2BN/TExA/dMbxwe9BrRbXMquR/Z98dF54EOZESPsvrDtmxWwhGcai\nMXn8Lx8uBcMns8RXXE8XC9hrdqs0RFwMscaAbBtaZxv3y4WJYSiDm38MuS0+rQ9k\nRR7tvZKmgwKBgFTZlKiFRenE64YZv5sq4aAOiG7pq5R7Yp/nleBkf+7CS8tt2rXg\nKhlW6rk9OFwRsKTzPsMxqvS7lJ3LOBsUhqdEvm8EVP5F/cAWR9OuQ6Wx5Qc1m3CN\n3r438vOSzHsr4spj4qWizbEwAzih1d5zfhffaViBUhnkGQa5R1vhx2bRAoGBAMD9\nLZCxd1TCuvUEoYLh19E8/EyoTIo4GSzXSxx5zm38rysCU030nzshSPi64TnoVvHU\nPWI0jZ9vHv94cpzA6K/by3KXbEJJ8yKjQzJGKPGAagmYxti827pxrInnUXPrkihI\nWANhML0o2e6p/6lRAzwPdfPLwFvdzbymBxMUCEJBAoGBAMHKNMKmCjXPrFls+7Vs\nCn7hoqLxwz0A3B6LZbANum18mLsVtLKJ+X7q5T7oRQldA6T948x+4A72DNLW8f1K\nO5OsujqROpksp5xTSo1f/j4Y4MKcBD4Fh1NBlP+472EY1apezuzYpF05XdCp3tNl\nJO+hFQUUQcsom24kkdgXbTPj\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-mixfcb@giftjunction-ymvkjh.iam.gserviceaccount.com",
+  "client_id": "110712549832088814052",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-mixfcb%40giftjunction-ymvkjh.iam.gserviceaccount.com"
+}
