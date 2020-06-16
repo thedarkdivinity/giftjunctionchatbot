@@ -3,7 +3,8 @@ const uuid = require('uuid');
 const express=require('express');
 const bodyParser=require('body-parser');
 const app=express();
-const port=process.env.PORT || 5000;
+app.use(express.static('public'));
+const port=5000;
 const sessionId = uuid.v4();
 app.use(bodyParser.urlencoded({
   extended:false
@@ -36,7 +37,7 @@ async function runSample(msg,projectId = 'giftjunction-ymvkjh') {
 
   // Create a new session
   const sessionClient = new dialogflow.SessionsClient({
-    keyFilename:"C:/Users/Sayush Kamat/Desktop/chatbottutorial/giftjunction-ff190a0916f3.json"
+    keyFilename:"C:/Users/Sayush Kamat/Desktop/chatbotreal/giftjunction-ff190a0916f3.json"
   });
   const sessionPath = sessionClient.sessionPath(projectId, sessionId);
 
@@ -69,6 +70,6 @@ async function runSample(msg,projectId = 'giftjunction-ymvkjh') {
 
 }
 
-app.listen(port,()=>{
+app.listen(process.env.PORT ||5000,()=>{
   console.log("running on port "+port)
 })
